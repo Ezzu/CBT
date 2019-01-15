@@ -1,0 +1,40 @@
+.short{
+    display: none;
+}
+html,body{
+    height: 100%;
+}
+body {
+    padding-top: 60px;
+}
+.huge {
+    font-size: 40px;
+}
+.tag-boxes .panel-primary {
+    border: 1px solid #24A7CF;
+}
+#wrapper {
+    position: relative;
+    min-height: 100%;
+}
+.body-section {
+    padding-bottom: 70px;
+}
+footer {
+    background: #24A7CF;
+    color: #FFFFFF;
+    height: 50px;
+    line-height: 50px;
+    font-size: 12px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+footer a{
+    color: #FFFFFF;
+    font-weight: bold;
+}
+footer a:hover {
+    color: #FFFFFF;
+    text-decoration: underline;
+}

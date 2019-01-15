@@ -1,0 +1,1 @@
+Welcome {{$name}} to GC Administration, your password for online account is : {{$password}}
